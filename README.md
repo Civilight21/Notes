@@ -28,3 +28,4 @@ _
 ## Keyboard shortcuts I probably should be using more often
 - Alt + Tab --> Swtiches between application windows
 - Ctrl + W --> Deletes a tab
+- Win-D --> show desktop
