@@ -14,7 +14,7 @@
       "age": "36"
     },
  		{
-      "name": "Serena Williams", // String
+      "name": "Serena Williams", 
       "sports": "Tennis",
       "team": {"name":"N/A", "city":"N/A"},
       "position": "Player",
